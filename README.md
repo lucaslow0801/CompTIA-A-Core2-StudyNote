@@ -1,6 +1,4 @@
 # CompTIA-A-Core2-StudyNote
-This is CompTIA A+ 220-1202 Study note
-
 ---
 
 | <h3>Domain </h3>              | Percentage of Examination |
@@ -10,4 +8,4 @@ This is CompTIA A+ 220-1202 Study note
 |3.0 Software Troubleshooting   |23%                        |
 |4.0 Operational Procedures     |21%                        |
 
-DSADADADSSADSAD
+this is update 2
